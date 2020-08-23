@@ -1,13 +1,6 @@
 import React from 'react';
 import Header from './Header.js'
 import HomeVideo from './HomeVideo.js';
-import '../css/App.css';
-import '../css/corporate.css';
-import '../css/corporate-light.css';
-import '../css/jquery.fullpage.css';
-import '../css/schedule.css';
-import '../css/slick.css';
-import '../css/woocommerce.css';
 
 function App() {
   return (
