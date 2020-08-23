@@ -697,8 +697,8 @@ function App() {
 						{/* Bottom bunner */}
 						<div
 							id="bottom-bunner"
-							className="fightclub-content-band vc bg-image man holderjs"
-							data-background-src="?holder.js/1920x300?bg=#717170"
+              className="fightclub-content-band vc bg-image man"
+							data-background-src="../images/classic_weights.jpg"
 						>
 							<div className="fightclub-container-fluid max width">
 								<div className="fightclub-inner-container">
@@ -706,20 +706,6 @@ function App() {
 										<div className="fightclub-column-inner">
 											<h5>Design is created by Serhiy Semenov from FXoffice</h5>
 											<h2>Create amazing website! what are you waiting for?</h2>
-										</div>
-									</div>
-									<div className="fightclub-column vc one-third">
-										<div className="fightclub-column-inner">
-											<p>
-												<a
-													className="fightclub-btn fightclub-btn-normal fightclub-btn-regular"
-													href="#"
-													target="_blank"
-												>
-													{" "}
-													Purchase Now{" "}
-												</a>
-											</p>
 										</div>
 									</div>
 								</div>
