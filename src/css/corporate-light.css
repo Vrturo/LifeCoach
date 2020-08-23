@@ -2368,8 +2368,7 @@ table.ing-schedule-normal-layout tbody > tr:not(:first-child):not(.schedule_off_
 	width: calc(200% - 8px);
     text-align: center;
 }
-  text-align: center;
-}
+
 table.ing-schedule-normal-layout tr:first-child {
   border: none;
 }

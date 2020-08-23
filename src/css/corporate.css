@@ -3123,7 +3123,7 @@ button.jp-mute {
   background: rgba(255, 255, 255, .5);}
 
 .ilightbox-loader.light div {
-  background: white url("../../images/ilightbox-preloader-dark.gif") no-repeat center; }
+  background: white url("") no-repeat center; }
 
 .ilightbox-holder.light {
 	background: none repeat scroll 0 0 white;
@@ -3133,15 +3133,15 @@ button.jp-mute {
 .ilightbox-holder.light .ilightbox-container .ilightbox-caption {
   text-shadow: 0 1px white;
   color: black;
-  background: url("../../images/ilightbox-caption-bg-light.png"); }
+  background: url(""); }
 
 .ilightbox-holder.light .ilightbox-container .ilightbox-social {
-  background: url("../../images/ilightbox-caption-bg-light.png");
+  background: url("");
   border-radius: 2px; }
 
 .ilightbox-holder.light .ilightbox-alert {
   color: #89949B;
-  background: url("../../images/ilightbox-alert-light.png") no-repeat center top; }
+  background: url("") no-repeat center top; }
 
 .ilightbox-toolbar.light {
   top: 8px;
@@ -3188,7 +3188,7 @@ button.jp-mute {
   box-shadow: 0 0 7px 1px rgba(0, 0, 0, 0.45); }
 
 .ilightbox-thumbnails.light .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
-  background: url("../../framework/img/global/ilightbox-thumb-overlay-play-light.png") no-repeat center; }
+  background: url("") no-repeat center; }
 
 .ilightbox-holder.light .ilightbox-inner-toolbar .ilightbox-title {
   padding: 10px 8px;
@@ -7394,7 +7394,7 @@ span.fightclub-visible-desktop {
   background-image: url( );
 }
 #our-classes-bgr-right-2 .bg-image .fightclub-section-inner {
-  background-image: url(../../img/fightclub/bg3-1.jpg);
+  background-image: url(/bg3-1.jpg);
 }
 
 #our-classes-bgr-right #fightclub-dbl-band-1 .fightclub-column,
@@ -7753,7 +7753,7 @@ span.fightclub-visible-desktop {
 #bottom-bunner {
   padding-top: 50px;
   padding-bottom: 10px;
-  background-image: url(../../img/fightclub/bg8.png);
+  background-image: url(/bg8.png);
 }
 #bottom-bunner h5 {
   color: #cd926d;
@@ -7968,7 +7968,7 @@ h6 {
 
 /*----------  home-parallax.html ----------*/
 .home-parallax #image-paralax-1 {
-  background-image: url(../../img/land/slide.jpg);
+  background-image: url();
   padding-top: 400px;
   padding-bottom: 300px;
 }
@@ -7993,7 +7993,7 @@ h6 {
 
 .home-parallax #about-us {
   background-color: #161515;
-  background-image: url(../../img/fightclub/about-us-parallax.jpg);
+  background-image: url();
   padding-top: 300px;
   padding-bottom: 220px;
 }
@@ -8005,7 +8005,7 @@ h6 {
   color: #fff;
 }
 .home-parallax #gallery-block {
-  background-image: url(../../img/fightclub/gallery-parallax.jpg);
+  background-image: url(/gallery-parallax.jpg);
   padding-top: 300px;
   padding-bottom: 200px;
 }
@@ -8041,7 +8041,7 @@ h6 {
 }
 
 .home-light #testimonials-block {
-  background-image: url(../../img/fightclub/home-light-bg6.jpg);
+  background-image: url(/home-light-bg6.jpg);
 }
 .home-light #testimonials-block h1 {
   color: #161515;
@@ -8059,7 +8059,7 @@ h6 {
 }
 
 .home-light #our-clients {
-  background-image: url(../../img/fightclub/lite-clients-bg.jpg);
+  background-image: url(/lite-clients-bg.jpg);
 }
 
 
@@ -8111,7 +8111,7 @@ h6 {
 }
 
 .home-grid #image-paralax-1 {
-  background-image: url(../../img/land/slide.jpg);
+  background-image: url();
   padding-top: 400px;
   padding-bottom: 300px;
 }

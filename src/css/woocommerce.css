@@ -1636,7 +1636,7 @@ width: 24px; }
     height: 16px;
     position: relative;
     float: left;
-    background: url(../../../../../../plugins/woocommerce/assets/images/star.png) repeat-x left 0; }
+    background: url(../images/star.png) repeat-x left 0; }
     .woocommerce .pp_woocommerce p.stars span a,
     .woocommerce-page .pp_woocommerce p.stars span a {
       float: left;
@@ -1669,11 +1669,11 @@ width: 24px; }
         z-index: 6; }
       .woocommerce .pp_woocommerce p.stars span a.active,
       .woocommerce-page .pp_woocommerce p.stars span a.active {
-        background: url(../../../../../../plugins/woocommerce/assets/images/star.png) repeat-x left -32px; }
+        background: url(../images/star.png) repeat-x left -32px; }
       .woocommerce .pp_woocommerce p.stars span a:hover, .woocommerce .pp_woocommerce p.stars span a:focus,
       .woocommerce-page .pp_woocommerce p.stars span a:hover,
       .woocommerce-page .pp_woocommerce p.stars span a:focus {
-        background: url(../../../../../../plugins/woocommerce/assets/images/star.png) repeat-x left -16px; }
+        background: url(../images/star.png) repeat-x left -16px; }
 
 .woocommerce .price,
 .woocommerce-page .price {
@@ -2424,7 +2424,7 @@ margin: 3px 0 4px !important;
   width: 430px;
 }
 .preview-images {
-  background: white url("../../../images/preview-pattern.png") repeat 0 0;
+  background: white repeat 0 0;
   float: left;
   height: 100%;
   margin: 0;
@@ -2639,8 +2639,8 @@ margin: 3px 0 4px !important;
 /*===================Star Icon Font==================*/
 @font-face {
   font-family: "star";
-  src: url("../../../../../../plugins/woocommerce/assets/fonts/star.eot");
-  src: url("../../../../../../plugins/woocommerce/assets/fonts/star.eot?#iefix") format("embedded-opentype"), url("../../../../../../plugins/woocommerce/assets/fonts/star.woff") format("woff"), url("../../../../../../plugins/woocommerce/assets/fonts/star.ttf") format("truetype"), url("../../../../../../plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
+  src: url("../fonts/star.eot");
+  src: url("../fonts/star.eot?#iefix");
   font-weight: normal;
   font-style: normal; }
 
