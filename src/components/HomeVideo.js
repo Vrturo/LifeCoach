@@ -37,7 +37,7 @@ function HomeVideo() {
 							{/* Video layer */}
 							<div
 								className="rs-background-video-layer"
-								data-videomp4="../media/girlvideo_mov.mp4"
+								data-videomp4="../media/squat2.mp4"
 								data-forcerewind="on"
 								data-volume="mute"
 								data-ytid="T8--OggjJKQ"
