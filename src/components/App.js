@@ -1,12 +1,15 @@
 import React from 'react';
 import Header from './Header.js'
 import HomeVideo from './HomeVideo.js';
+import AboutUs from './AboutUs.js';
+import Counter from './Counter.js';
 
 function App() {
   return (
     <div id="top" className="site">
       <Header />
       <HomeVideo />
+      <AboutUs />
 			<div className="fightclub-main full" role="main">
 				<article className="page type-page hentry">
 					<div className="entry-content">
@@ -212,133 +215,7 @@ function App() {
 							</div>
 						</div>
 						{/* end our classes bgr-right */}
-						{/* About us */}
-						<div
-							id="about-us"
-							className="fightclub-content-band vc three-cols-center man"
-						>
-							<div className="fightclub-container-fluid max width">
-								<div className="fightclub-inner-container">
-									<div
-										className="fightclub-column vc whole fade-bottom"
-										data-fade="true"
-										data-fade-animation="in-from-bottom"
-									>
-										<div className="fightclub-column-inner">
-											<h5>About Us</h5>
-											<h1>What We Do And Who We Are?</h1>
-											<p>
-												<span className="fightclub-icon-style fightclub-lines-on">
-													<i className="fightclub-icon  fightclub-icon-boxing14" />
-												</span>
-											</p>
-											<div className="about-us-content fightclub-content-band vc">
-												<div className="fightclub-inner-container">
-													<div
-														className="fightclub-column vc one-third fade-bottom"
-														data-fade="true"
-														data-fade-animation="in-from-bottom"
-													>
-														<div className="fightclub-column-inner">
-															<p>
-																<img
-																	className=" size-full aligncenter"
-																	src="#"
-																	data-src="holder.js/370x315?auto=yes"
-																	alt="Photo-Filter-31"
-																	width={370}
-																	height={315}
-																/>
-															</p>
-															<h5>
-																Sam Smith <span>“The Machine”</span>
-															</h5>
-															<p>
-																<span>Judo Instructor,</span>
-																<a href="mailto:support@themeforest.net">
-																	{" "}
-																	support@themeforest.net
-																</a>
-																<br />
-																Sit amet, consectetur adipisicing elit, sed do
-																<br />
-																eiusmod tempor incididunt ut labore
-															</p>
-															<hr className="fightclub-gap" />
-														</div>
-													</div>
-													<div
-														className="fightclub-column vc one-third fade-bottom"
-														data-fade="true"
-														data-fade-animation="in-from-bottom"
-													>
-														<div className="fightclub-column-inner">
-															<p>
-																<img
-																	className="size-full aligncenter"
-																	src="#"
-																	data-src="holder.js/370x315?auto=yes"
-																	alt="Photo"
-																	width={370}
-																	height={315}
-																/>
-															</p>
-															<h5>
-																Sandra Fit <span>“The Hammer”</span>
-															</h5>
-															<p>
-																<span>Founder,</span>{" "}
-																<a href="mailto:support@themeforest.net">
-																	support@themeforest.net
-																</a>
-																<br />
-																Sit amet, consectetur adipisicing elit, sed do
-																<br />
-																eiusmod tempor incididunt ut labore
-															</p>
-															<hr className="fightclub-gap" />
-														</div>
-													</div>
-													<div
-														className="fightclub-column vc one-third fade-bottom"
-														data-fade="true"
-														data-fade-animation="in-from-bottom"
-													>
-														<div className="fightclub-column-inner">
-															<p>
-																<img
-																	className="size-full aligncenter"
-																	src="#"
-																	data-src="holder.js/370x315?auto=yes"
-																	alt="Photo"
-																	width={370}
-																	height={315}
-																/>
-															</p>
-															<h5>
-																John Beaton <span>“Scrappy Doo”</span>
-															</h5>
-															<p>
-																<span>Grappling Instructor,</span>{" "}
-																<a href="mailto:support@themeforest.net">
-																	support@themeforest.net
-																</a>
-																<br />
-																Sit amet, consectetur adipisicing elit, sed do
-																<br />
-																eiusmod tempor incididunt ut labore
-															</p>
-															<hr className="fightclub-gap" />
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						{/* end about us */}
+						<Counter />
 						{/* Gallery Block */}
 						<div
 							id="gallery-block"
@@ -697,8 +574,8 @@ function App() {
 						{/* Bottom bunner */}
 						<div
 							id="bottom-bunner"
-              className="fightclub-content-band vc bg-image man"
-							data-background-src="../images/classic_weights.jpg"
+              className="fightclub-content-band vc parallax bg-image man"
+							data-background-src="../images/ab.jpg"
 						>
 							<div className="fightclub-container-fluid max width">
 								<div className="fightclub-inner-container">
