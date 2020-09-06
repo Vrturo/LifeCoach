@@ -7586,7 +7586,7 @@ span.fightclub-visible-desktop {
 #testimonials-block {
   padding-top: 100px;
   padding-bottom: 60px;
-  background-image: url( );
+  background-image: url(../images/grip.jpg);
 }
 #testimonials-block h5 {
   color: #cd926d;
@@ -7660,6 +7660,7 @@ span.fightclub-visible-desktop {
 #counters-block {
   padding-top: 160px;
   padding-bottom: 160px;
+  background-image: url(../images/weights.jpg);
 }
 #counters-block .counter-bar,
 #counters-block .counter-bar h1,
@@ -7753,7 +7754,7 @@ span.fightclub-visible-desktop {
 #bottom-bunner {
   padding-top: 50px;
   padding-bottom: 10px;
-  background-image: url(../images/classic_weights.jpg);
+  background-image: url(../images/ab.jpg);
 }
 #bottom-bunner h5 {
   color: #cd926d;
@@ -8015,6 +8016,7 @@ h6 {
 .home-parallax #counters-block {
    padding-top: 300px;
    padding-bottom: 300px
+   background-image: url(../images/weights.jpg);
  }
  .home-parallax #testimonials-block {
    padding-top: 300px;
@@ -8075,6 +8077,7 @@ h6 {
 .home-video #about-us {
   background-color: #161515;
   padding-bottom: 50px;
+  background-image: url(../images/deadlift.jpg);
 }
 .home-video #about-us h1,
 .home-video #about-us p>span,
