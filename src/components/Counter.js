@@ -55,20 +55,3 @@ function Counter() {
 }
 
 export default Counter;
-
-// <script>
-//                                             jQuery(document).ready(function($){
-//                                                 $("#counter-1").waypoint(function() {
-//                                                     $("#counter-1 .counter-value").countTo({
-//                                                         from: 0,
-//                                                         to: 99,
-//                                                         speed: 1500,
-//                                                         refreshInterval: 5,
-//                                                         onComplete: function(value) {
-//                                                             console.debug(this);
-//                                                         }
-//                                                     });
-//                                                 },
-//                                                 { offset: "100%" });
-//                                             });
-//                                         </script>
