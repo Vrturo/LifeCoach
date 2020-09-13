@@ -11,7 +11,7 @@ function AboutUs() {
           <h1>What We Do And Who We Are?</h1>
           <p>
             <span className="fightclub-icon-style fightclub-lines-on">
-              <i className="fightclub-icon  fightclub-icon-refresh21" />
+              <i className="fas fa-dumbbell"></i>
             </span>
           </p>
           <p className="head-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et<br /> aliqua. Ut enim aliquip ex ea commodo consequat.</p>

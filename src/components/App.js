@@ -43,7 +43,7 @@ function App() {
 															<h1>Kickboxing (All Levels)</h1>
 															<p>
 																<span className="fightclub-icon-style fightclub-lines-on">
-																	<i className="fightclub-icon  fightclub-icon-boxer5" />
+																	<i className="fas fa-dumbbell"></i>
 																</span>
 															</p>
 															<p className="classes-desc">
@@ -110,7 +110,7 @@ function App() {
 															<h1>Maximum Crossfit</h1>
 															<p>
 																<span className="fightclub-icon-style fightclub-lines-on">
-																	<i className="fightclub-icon  fightclub-icon-weights15" />
+																	<i className="fas fa-dumbbell"></i>
 																</span>
 															</p>
 															<div className="classes-desc-head left">
@@ -181,7 +181,7 @@ function App() {
 															<h1>Kickboxing (All Levels)</h1>
 															<p>
 																<span className="fightclub-icon-style fightclub-lines-on">
-																	<i className="fightclub-icon  fightclub-icon-boxer5" />
+																	<i className="fas fa-dumbbell"></i>
 																</span>
 															</p>
 															<p className="classes-desc">
@@ -230,7 +230,7 @@ function App() {
 											<h1>See Our Awesome Images</h1>
 											<p>
 												<span className="fightclub-icon-style fightclub-lines-on">
-													<i className="fightclub-icon  fightclub-icon-boxer4" />
+													<i className="fas fa-dumbbell"></i>
 												</span>
 											</p>
 											<hr className="fightclub-gap" />
@@ -400,7 +400,7 @@ function App() {
 											<h1>What They Say About Us</h1>
 											<p>
 												<span className="fightclub-icon-style fightclub-lines-on">
-													<i className="fightclub-icon  fightclub-icon-champion2" />
+													<i className="fas fa-trophy"></i>
 												</span>
 											</p>
 											<div className="fightclub-slider-shortcode-container fightclub-slider-shortcode-container">
@@ -416,7 +416,7 @@ function App() {
 														<p>
 															<img
 																className=" size-full aligncenter"
-																src="#"
+																src="../images/trainer1.jpg"
 																data-src="holder.js/75x75?auto=yes"
 																alt="Fotolia_79"
 																width={75}
@@ -437,7 +437,7 @@ function App() {
 														<p>
 															<img
 																className="aligncenter size-full"
-																src="#"
+																src="../images/trainer2.jpg"
 																data-src="holder.js/75x75?auto=yes"
 																alt="Photo"
 																width={75}
@@ -458,7 +458,7 @@ function App() {
 														<p>
 															<img
 																className="aligncenter size-full"
-																src="#"
+																src="../images/trainer3.jpg"
 																data-src="holder.js/75x75?auto=yes"
 																alt="Photo"
 																width={75}
@@ -489,7 +489,7 @@ function App() {
 											<h1>Get In Touch</h1>
 											<p>
 												<span className="fightclub-icon-style fightclub-lines-on">
-													<i className="fightclub-icon  fightclub-icon-bicycles4" />
+													<i className="fas fa-info"></i>
 												</span>
 											</p>
 											<p className="get-in-touch-desc">
