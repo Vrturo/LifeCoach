@@ -178,7 +178,7 @@ function Header() {
                             </li>
                         </ul>
                         {/* <!-- endmain menu --> */}
-                        <a href="#" className="fightclub-navbar-search"><i className="fightclub-icon-search"></i></a>
+                        <a href="#" className="fightclub-navbar-search"><i className="fas fa-search"></i></a>
 
                     </nav> {/* <!-- end .fightclub-nav-collapse.collapse --> */}
                 </div> {/* <!-- end .fightclub-navbar-inner --> */}
