@@ -7391,10 +7391,10 @@ span.fightclub-visible-desktop {
 
 /*----- Our Clases -----*/
 #our-classes-bgr-right .bg-image .fightclub-section-inner {
-  background-image: url( );
+  background-image: url(../images/trainer1.jpg);
 }
 #our-classes-bgr-right-2 .bg-image .fightclub-section-inner {
-  background-image: url(../../img/fightclub/bg3-1.jpg);
+  background-image: url(../images/trainer3.jpg);
 }
 
 #our-classes-bgr-right #fightclub-dbl-band-1 .fightclub-column,
@@ -7438,7 +7438,7 @@ span.fightclub-visible-desktop {
 }
 
 #our-classes-bgr-left .bg-image .fightclub-section-inner {
-	background-image: url( );
+	background-image: url(../images/trainer2.jpg);
 }
 
 #our-classes-bgr-left .fightclub-dbl-right .fightclub-section-inner {
